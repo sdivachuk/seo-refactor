@@ -7,15 +7,17 @@
 
 ## Description
 
-changed all instances of div to section or nav selector
+Changed all instances of div to section or nav selector
 
-removed UL list
+Removed UL list
 
-consolidated duplicate classes to save repeating code
+Consolidated duplicate classes to save repeating code
 
-removed ID and placed into class that was already used
+Removed ID and placed into class that was already used
 
+Updated class names in HTML and CSS to match
 
+Added ID to fix link that did not work
 
 ## Visuals
 ![Horiseon](./assets/images/Horiseon%20_%20Search%20Engine%20Optimization.png)
