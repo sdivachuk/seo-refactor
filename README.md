@@ -1,4 +1,4 @@
-# Title
+# Refactoring Website
 
 ## Table of Contents
 - [Description](#description)
@@ -7,9 +7,15 @@
 
 ## Description
 
-here is a description
+changed all instances of div to section or nav selector
 
-more description
+removed UL list
+
+consolidated duplicate classes to save repeating code
+
+removed ID and placed into class that was already used
+
+
 
 ## Visuals
 ![Horiseon](./assets/images/Horiseon%20_%20Search%20Engine%20Optimization.png)
